@@ -2,7 +2,7 @@ import removeFinalCharacter from "./removeFinalCharacter";
 
 /**
  * Description:
- * 
+ *
  * A unit of time for status updates.
  *
  * Rather than being an unrestricted string (which would allow nonsense units of time like "banana elephant embezzler"), we use a union of literal types.

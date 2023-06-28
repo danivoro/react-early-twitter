@@ -10,8 +10,6 @@ function AppHeader(): JSX.Element {
         <NavItem label={"preferences"} />
         <NavItem label={"help"} />
         <NavItem label={"sign-out"} />
-        
-        
       </nav>
     </header>
   );
